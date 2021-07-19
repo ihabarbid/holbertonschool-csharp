@@ -6,7 +6,7 @@ namespace _0_project_add_new
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Click on the Create menu on the left side of the Project window’s toolbar");
+            Console.WriteLine("3");
         }
     }
 }
